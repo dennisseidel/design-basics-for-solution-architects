@@ -1,0 +1,19 @@
+---
+title: Gatsby & Typescript Applied
+subtitle: Building a Landing Page and run it on AWS 
+author: Dennis Seidel
+subject: "markdown"
+keywords: [books,programming]
+language: en-US
+cover-image: img/gatsby-typecript-cover.png
+lof: true
+lof-own-page: true
+toc-own-page: true
+titlepage: false
+titlepage-background: backgrounds/background10.pdf
+titlepage-text-color: "333333"
+titlepage-rule-color: "00737C"
+papersize: letter
+prepend-titlepage: img/gatsby-typecript-cover.pdf
+colorlinks: true
+---
